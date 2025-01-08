@@ -1,5 +1,5 @@
 # GPPL
-This is the open source code for paper:
+This is the open source code for paper: GPPLEA: Guided Polarity Prompt Learning for Enhanced Emotion Analysis in Low-Sample Social Media Environments
 
 ### Environment
 
